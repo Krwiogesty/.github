@@ -1,12 +1,19 @@
-## Hi there 👋
+# Krwiogesty 🩸
 
-<!--
+**Benefity, miejsca i wiedza dla krwiodawców.**
 
-**Here are some ideas to get you started:**
+Krwiogesty to rozwijana ogólnopolska platforma, która pomaga krwiodawcom odkrywać **lokalne benefity, partnerów, akcje i praktyczne informacje — w jednym miejscu**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Zaczynamy od Krakowa
+
+🗺️ mapa miejsc przyjaznych krwiodawcom  
+🎁 lokalne benefity i promocje  
+❤️ gastronomia, kultura, sport i usługi  
+📍 akcje i programy regionalne  
+✅ śledzenie wykorzystanych benefitów
+
+Docelowo chcemy połączyć rozproszone inicjatywy z całej Polski i rozwijać personalizowane **Moje Krwiogesty**.
+
+**Odkrywaj miejsca, które chcą podziękować krwiodawcom.**
+
+🌐 [krwiogesty.pl](https://krwiogesty.pl)
